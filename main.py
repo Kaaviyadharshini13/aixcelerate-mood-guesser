@@ -24,13 +24,13 @@ def count_moods(data):
   happy = 0
   sad = 0
 
-for sentence, mood in data:
-  if mood == "Happy":
-     happy += 1
-  elif mood == "Sad":
-     sad += 1
+  for sentence, mood in data:
+      if mood == "Happy":
+       happy += 1
+      elif mood == "Sad":
+       sad += 1
 
-return happy, sad
+  return happy, sad
 
 
 #Display the counts
