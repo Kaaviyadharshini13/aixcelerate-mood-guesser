@@ -19,7 +19,7 @@ Accuracy on the 5 practice sentences: 100 %
    The method scores each word alone: "not" is unseen (0) and "good" is +2, so the total is +2. It ignores that "not" reverses the meaning. A fix: when "not" comes before a word, flip that word's score, or learn two-word pairs like "not good".
 
 ## AI declaration
-I used an AI tool: yes / no
+I used an AI tool: yes / no,
 If yes, what I asked it: I asked it how to use Github, how to create a repository, how to create a readme, Since I've never learnt python it helped me with learning basic codes ,how use basic code language and logic for this kind of code
 questions.I used ChatGPT as a learning assistant to understand how to use GitHub, create repositories, and write README files. Since I had no prior experience with Python, it helped me learn basic Python syntax, coding concepts, functions, 
 loops, and programming logic. I also used it to understand code, identify errors, debug problems, and learn how to correct them step by step.
